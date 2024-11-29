@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # OmniAuth
+# OmniAuth-Rails-7
